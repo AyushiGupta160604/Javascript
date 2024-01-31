@@ -12,7 +12,7 @@ let valueInNumber = Number(score)
 // "33abc" => NaN (full form: Not a Number) but the type of NAN is Number
 //  true => 1; false => 0
 
-let isLoggedIn = "hitesh"
+let isLoggedIn = "ayushi"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 //  console.log(booleanIsLoggedIn);
